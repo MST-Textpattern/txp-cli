@@ -17,7 +17,7 @@ I want to write a javascript version of Textpattern. Always have.
 ### Install CLI
 
 ``` shell
-npm install -g .
+npm i txp-cli -g
 ```
 
 ### Create a TXP JS project
