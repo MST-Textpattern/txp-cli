@@ -1,0 +1,29 @@
+{
+  "name": "txp-cli",
+  "author": "Joshua Vaage <jvaage@protonmail.com> (http://joshuavaage.com)",
+  "version": "0.0.9",
+  "main": "index.js",
+  "description": "Code is Pottery",
+  "license": "MIT",
+  "homepage": "https://github.com/whaleen/txp-cli#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whaleen/txp-cli.git"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "textpattern",
+    "javascript"
+  ],
+  "preferGlobal": true,
+  "bin": {
+    "txp": "bin/txp"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
