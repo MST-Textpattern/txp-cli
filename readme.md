@@ -1,7 +1,7 @@
 # txp-cli
 
 I want to write a javascript version of Textpattern. Always have.
-
+```
 .............................................
 ████████╗██╗  ██╗██████╗          ██╗███████╗
 ╚══██╔══╝╚██╗██╔╝██╔══██╗         ██║██╔════╝
@@ -13,7 +13,7 @@ I want to write a javascript version of Textpattern. Always have.
 .......THIS IS VERSION 0.1.0 OF TXPJS........
 ..............CODE IS POTTERY................
 .............................................
-
+```
 ### Install CLI
 
 ``` shell
